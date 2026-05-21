@@ -71,8 +71,8 @@ A passionate and detail-oriented Engineering student bridging the gap between ha
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=habibafekry3&show_icons=true&theme=gotham&count_private=true" alt="Habiba's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibafekry3&layout=compact&theme=gotham" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibafekry3&theme=gotham&hide_border=true" alt="Habiba's GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats-six-teal.vercel.app/api/top-langs/?username=habibafekry3&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
 ---
